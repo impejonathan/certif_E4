@@ -1,0 +1,4 @@
+pyodbc==4.0.30
+python-dotenv==0.19.2
+requests==2.26.0
+lxml==4.6.3

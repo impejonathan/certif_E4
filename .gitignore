@@ -1,3 +1,6 @@
+*.csv
+note.txt
+data_CSV_to_BDD.ipynb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
